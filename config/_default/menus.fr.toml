@@ -1,0 +1,29 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "À propos"
+pageRef = "about"
+identifier = "GyOmlLz7uj"
+weight = 2
+
+[[main]]
+name = "CV"
+pageRef = "resume"
+identifier = "VjWe9y1hUY"
+weight = 3
+
+[[main]]
+name = "Projets"
+pageRef = "projects"
+identifier = "iXPHEsZdFF"
+weight = 4
+
+[[main]]
+name = "Accueil"
+pageRef = "/"
+identifier = "yozmQu8OIa"
+weight = 1
+
+[[footer]]
+none = "none"

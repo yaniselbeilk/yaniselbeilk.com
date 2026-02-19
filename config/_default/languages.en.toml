@@ -1,0 +1,33 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Y.E.B"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+email = "mailto:yanis.elbeilk@proton.me"
+
+[[params.author.links]]
+github = "https://github.com/yaniselbeilk"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/yaniselbeilk/"
+
+[[params.author.links]]
+mastodon = "https://fosstodon.org/@yanislblk"
+
+[[params.author.links]]
+medium = "https://medium.com/@yanis.lblk"
+
+["params.author"]
+name = "Yanis EL BEILK"
+email = "yanis.elbeilk@proton.me"
+image = "/img/profile.jpg"
+headline = "SysOps/Network Engineer"
+bio = "Portfolio of Yanis EL BEILK"
