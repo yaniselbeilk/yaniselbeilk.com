@@ -7,7 +7,7 @@ title: "CV"
 {{< Timeline >}}
 
 {{< timelineItem icon="code" header="STEF" subheader="Ingénieur de Production SysOps" >}}
-<img src="/resume/STEF-Logo.png" alt="STEF Logo" />
+<img src="/fr/resume/STEF-Logo.png" alt="STEF Logo" />
 <strong>Site web : </strong><span><a href="https://www.stef.com/france/" target="_blank">STEF</a></span><br>
 <strong>Localisation :</strong> Paris, France <br>
 <strong>Date :</strong> 2024 - 2025
