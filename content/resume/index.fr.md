@@ -7,8 +7,7 @@ title: "CV"
 {{< Timeline >}}
 
 {{< timelineItem icon="code" header="STEF" subheader="Ingénieur de Production SysOps" >}}
-<img src="/resume/img/STEF-Logo.png" alt="STEF Logo" />
-
+<img src="/img/STEF-Logo.png" alt="STEF Logo" />
 <strong>Site web : </strong><span><a href="https://www.stef.com/france/" target="_blank">STEF</a></span><br>
 <strong>Localisation :</strong> Paris, France <br>
 <strong>Date :</strong> 2024 - 2025
@@ -48,7 +47,7 @@ title: "CV"
 <strong>Date :</strong> 2021 - 2024
 {{< /timelineItem >}}
 
-{{< timelineItem header="Université Sorbonne Paris Nord" badge="Computing Bachelor">}}
+{{< timelineItem header="Université Sorbonne Paris Nord" badge="DUT">}}
 <img src="/resume/img/uspn-logo.png" alt="USPN Logo" />
 <strong>Site web : </strong><span><a href="https://www.univ-spn.fr/" target="_blank">Université Sorbonne Paris Nord</a></span><br>
 <strong>Date :</strong> 2019 - 2021
