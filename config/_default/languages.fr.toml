@@ -1,14 +1,14 @@
 disabled = false
 languageCode = "fr"
-languageName = "English"
+languageName = "Français"
 weight = 1
-title = "Y.E.B"
+title = "Yanis E.B"
 
 [params]
 displayName = "Français"
 isoCode = "fr"
 rtl = false
-dateFormat = "2 January 2006"
+dateFormat = "1 January 2001"
 
 [[params.author.links]]
 email = "mailto:yanis.elbeilk@proton.me"
@@ -22,11 +22,9 @@ linkedin = "https://www.linkedin.com/in/yaniselbeilk/"
 [[params.author.links]]
 mastodon = "https://fosstodon.org/@yanislblk"
 
-[[params.author.links]]
-medium = "https://medium.com/@yanis.lblk"
-
 ["params.author"]
 name = "Yanis EL BEILK"
 email = "yanis.elbeilk@proton.me"
 image = "/img/profile.jpg"
-headline = "Ingénieur SysOps/Réseau"
+headline = "Ingénieur SysOps/DevOps"
+bio = "Passionné de technologie, de sport, de musique et de jeux vidéo à mes heures perdues"

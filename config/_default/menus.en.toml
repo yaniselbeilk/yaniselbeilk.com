@@ -14,12 +14,6 @@ identifier = "VjWe9y1hUY"
 weight = 3
 
 [[main]]
-name = "Projects"
-pageRef = "projects"
-identifier = "iXPHEsZdFF"
-weight = 4
-
-[[main]]
 name = "Home"
 pageRef = "/"
 identifier = "yozmQu8OIa"
