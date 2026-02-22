@@ -20,7 +20,7 @@ title: "CV"
 <strong>Date :</strong> 2024
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="Videomusuem" subheader="System and Network administrator">}}
+{{< timelineItem icon="code" header="Videomusuem" subheader="Administrateur systèmes & réseaux">}}
 <img src="/resume/videomuseum-logo.jpg" width=248 height=248  alt="Videomuseum Logo" />
 <strong>Site web : </strong><span><a href="https://www.videomuseum.fr/" target="_blank">Videomuseum</a></span><br>
 <strong>Localisation :</strong> Paris, France <br>
