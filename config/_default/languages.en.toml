@@ -25,6 +25,6 @@ mastodon = "https://fosstodon.org/@yanislblk"
 ["params.author"]
 name = "Yanis EL BEILK"
 email = "yanis.elbeilk@proton.me"
-image = "/img/profile.jpg"
+image = "profile.jpeg"
 headline = "SysOps/DevOps Engineer"
 bio = "Passionate about technology, sports, music and video games in my spare time"
