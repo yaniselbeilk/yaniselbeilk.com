@@ -1,12 +1,12 @@
 [[main]]
 name = "À propos"
-pageRef = "/about"
+pageRef = "about"
 identifier = "GyOmlLz7uj"
 weight = 2
 
 [[main]]
 name = "CV"
-pageRef = "/resume"
+pageRef = "resume"
 identifier = "VjWe9y1hUY"
 weight = 3
 
