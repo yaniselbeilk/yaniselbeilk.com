@@ -16,7 +16,7 @@ title: "CV"
 {{< timelineItem icon="code" header="MetalMaker3D" subheader="Ingénieur Réseaux (stage)">}}
 <img src="/resume/mm3d.jpeg" alt="MetalMaker3D Logo" />
 <strong>Site web : </strong><span><a href="https://metalmaker3d.com/" target="_blank">MetalMaker3D</a></span><br>
-<strong>Localisation :</strong> Cracovie, Poland <br>
+<strong>Localisation :</strong> Cracovie, Pologne <br>
 <strong>Date :</strong> 2024
 {{< /timelineItem >}}
 
